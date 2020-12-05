@@ -80,7 +80,7 @@ ul li .slide img{
     left: 0;
 }
 
-/* ul li input[type="radio"]:checked ~ .slide img{
+ ul li input[type="radio"]:checked ~ .slide img{
     animation: animate 40s linear infinite;
 }
 
@@ -94,4 +94,4 @@ ul li .slide img{
     0%{
         transform:scale(1)
     }
-} */
+} 
